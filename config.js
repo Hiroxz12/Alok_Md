@@ -1,15 +1,15 @@
 //=============『 Utama 』================== //
-global.owner = ['6287898307350'] 
+global.owner = ['6285732267014'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Gempy⛧⁩⁩'
-global.numberowner = '6287898307350'
+global.nameowner = 'Hiro⛧⁩⁩'
+global.numberowner = '6285732267014'
 global.instagram = 'https://www.instagram.com/gmpyyy'
 global.github = 'https://github.com/gmpyyy'
-global.dana = '087898307350'
-global.pulsa = '087898307350'
+global.dana = '085732267014'
+global.pulsa = '085732267014'
 global.gopay = '-'
 
 //=============『 Info Bot 』=================//
